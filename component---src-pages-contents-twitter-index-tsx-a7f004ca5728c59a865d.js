@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktech_shinkan_24=self.webpackChunktech_shinkan_24||[]).push([[116],{8282:function(e,t,n){n.r(t);var r=n(7294);t.default=()=>r.createElement("div",null,r.createElement("p",null,"技術系サークル合同新歓2024公式𝕏(Twitter)アカウント: ",r.createElement("a",{href:"https://twitter.com/uec_tech",target:"_blank",rel:"noopener noreferrer\r "},"@uec_tech")))}}]);
+//# sourceMappingURL=component---src-pages-contents-twitter-index-tsx-a7f004ca5728c59a865d.js.map
